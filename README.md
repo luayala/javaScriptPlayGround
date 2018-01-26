@@ -1,4 +1,5 @@
-##colection of javascript project to practice coding in js 
+colection of javascript project to practice coding in js 
+===
 
 ### TODOS
    1. Add more dificulty levels
